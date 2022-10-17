@@ -1,6 +1,6 @@
 # PACMAN PYTHON 3
 
-Port of pacman to python 3 using pygame
+Remake of pacman to python 3 using pygame
 
 ## SETUP
 
